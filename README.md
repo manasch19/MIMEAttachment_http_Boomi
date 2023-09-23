@@ -15,6 +15,7 @@ Step 3: send the file to cache
 Step 4:configure http resource path
 
 Step 5: configure Request body
+
 ![image](https://github.com/manasch19/MIMEAttachment_http_Boomi/assets/97012694/c282768f-eb3d-40af-a0c0-43ee8aa3a299)
 
 example: '{
@@ -31,7 +32,9 @@ Step 6: Use dataproces Map JSON to MIME function
 ![image](https://github.com/manasch19/MIMEAttachment_http_Boomi/assets/97012694/c362c9a4-8ce9-4cf0-b10d-755db54c6a87)
 
 
+
 Step 7: Use Http connecter and send this as attachment
+
 
 ![image](https://github.com/manasch19/MIMEAttachment_http_Boomi/assets/97012694/19011035-5610-48dd-b00d-dcff4df6e655)
 
